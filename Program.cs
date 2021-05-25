@@ -1,12 +1,24 @@
 ﻿using System;
 
-namespace RockPaperScissors
+Main();
+
+void Main()
 {
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
-    }
+    Console.WriteLine(@"
+    ---------------------------------
+    |  Player: 0   |   Computer: 0  |
+    ---------------------------------
+    What would you like to throw?
+    1) Rock
+    2) Paper
+    3) Scissors
+    ");
+    Console.WriteLine();
+
+
+}
+
+void Throw()
+{
+    string UserInput = Console.ReadLine().ToLower();
 }

@@ -1,0 +1,16 @@
+C:\Users\ethan\workspace\csharp\RockPaperScissors\bin\Debug\net5.0\RockPaperScissors.exe
+C:\Users\ethan\workspace\csharp\RockPaperScissors\bin\Debug\net5.0\RockPaperScissors.deps.json
+C:\Users\ethan\workspace\csharp\RockPaperScissors\bin\Debug\net5.0\RockPaperScissors.runtimeconfig.json
+C:\Users\ethan\workspace\csharp\RockPaperScissors\bin\Debug\net5.0\RockPaperScissors.runtimeconfig.dev.json
+C:\Users\ethan\workspace\csharp\RockPaperScissors\bin\Debug\net5.0\RockPaperScissors.dll
+C:\Users\ethan\workspace\csharp\RockPaperScissors\bin\Debug\net5.0\ref\RockPaperScissors.dll
+C:\Users\ethan\workspace\csharp\RockPaperScissors\bin\Debug\net5.0\RockPaperScissors.pdb
+C:\Users\ethan\workspace\csharp\RockPaperScissors\obj\Debug\net5.0\RockPaperScissors.csprojAssemblyReference.cache
+C:\Users\ethan\workspace\csharp\RockPaperScissors\obj\Debug\net5.0\RockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ethan\workspace\csharp\RockPaperScissors\obj\Debug\net5.0\RockPaperScissors.AssemblyInfoInputs.cache
+C:\Users\ethan\workspace\csharp\RockPaperScissors\obj\Debug\net5.0\RockPaperScissors.AssemblyInfo.cs
+C:\Users\ethan\workspace\csharp\RockPaperScissors\obj\Debug\net5.0\RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\ethan\workspace\csharp\RockPaperScissors\obj\Debug\net5.0\RockPaperScissors.dll
+C:\Users\ethan\workspace\csharp\RockPaperScissors\obj\Debug\net5.0\ref\RockPaperScissors.dll
+C:\Users\ethan\workspace\csharp\RockPaperScissors\obj\Debug\net5.0\RockPaperScissors.pdb
+C:\Users\ethan\workspace\csharp\RockPaperScissors\obj\Debug\net5.0\RockPaperScissors.genruntimeconfig.cache
